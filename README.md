@@ -1,6 +1,12 @@
-<a href="https://engelsmile.tistory.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://capsule-render.vercel.app/api?type=Soft&auto&height=150&section=header&text=Welcome&nbsp;to%20EnSillee's&nbsp;Github&fontSize=50" />
+
+
+
+
+
+<!-- <a href="https://engelsmile.tistory.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Blog-Hexcode?style=for-the-badge&logo=tistory&logoColor=Hexcode"/>
-</a>
+</a> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnSillee&show_icons=true&theme=github_dark)
 
