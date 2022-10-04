@@ -20,10 +20,11 @@
 <h3 align="center"> Contact </h3>
 <p align="center">
   
-  <a href="https://engelsmile.tistory.com">
+  <a href="https://engelsmile.tistory.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Blog-EB531F?style=flat-square&logo=Tistory&logoColor=white&link=https:/engelsmile.tistory.com"/> 
   </a>&nbsp
-   <a href="mailto:dlwjd164@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlwjd164@gmail.com"/></a>
+   <a href="mailto:dlwjd164@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlwjd164@gmail.com"/></a>
 </p>
 
 
