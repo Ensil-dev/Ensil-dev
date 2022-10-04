@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=4c7ccf&text=%20Ensillee%20%20&height=200&fontSize=100)
 
+
 <br/>
+
 
 <h3 align="center"> Tech Stack </h3>
 
@@ -14,7 +16,6 @@
 
 <br/>
 
-
 <h3 align="center"> Contact </h3>
 <p align="center">
   
@@ -25,22 +26,8 @@
 </p>
 
 
-
-
-<!-- <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style={flat-square}&logo={JavaScript}&logoColor=white"/></a>&nbsp;
-<p/> -->
-<!-- 
-<img src="https://img.shields.io/badge/JavaScript-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp; -->
-
-
-
-<!-- 
-<a href="https://engelsmile.tistory.com/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Blog-Hexcode?style=for-the-badge&logo=tistory&logoColor=Hexcode"/>
-</a> -->
-
 <br/>
+
 
 <h3 align="center">🧑🏻‍💻 My Github Stats 🧑🏻‍💻</h3>
 <div align="center">
