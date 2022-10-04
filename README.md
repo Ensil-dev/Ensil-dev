@@ -7,12 +7,24 @@
 <h3 align="center"> Tech Stack </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-426EBE?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Redux-8348C9?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Express-777978?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MongoDB-1B8634?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
+  <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
+  </a>
+  <a href="https://ko.reactjs.org/">
+    <img src="https://img.shields.io/badge/React-426EBE?style=flat-square&logo=React&logoColor=white"/>&nbsp
+  <a/>
+  <a href="https://ko.redux.js.org/">
+    <img src="https://img.shields.io/badge/Redux-8348C9?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://nodejs.org/ko/docs/">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://expressjs.com/ko/">
+    <img src="https://img.shields.io/badge/Express-777978?style=flat-square&logo=Express&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://www.mongodb.com/docs/">
+    <img src="https://img.shields.io/badge/MongoDB-1B8634?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
+  </a>
 </p>
 
 <br/>
