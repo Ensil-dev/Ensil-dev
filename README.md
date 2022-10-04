@@ -34,10 +34,12 @@
 <p align="center">
   
   <a href="https://engelsmile.tistory.com" target="_blank" rel="noopener noreferrer">
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
     <img src="https://img.shields.io/badge/Blog-EB531F?style=for-the-badge&logo=Tistory&logoColor=white&link=https:/engelsmile.tistory.com"/> 
   </a>&nbsp
    <a href="mailto:dlwjd164@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=dlwjd164@gmail.com"/></a>
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=dlwjd164@gmail.com"/>
+   </a>
 </p>
 
 
