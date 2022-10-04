@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=Soft&auto&height=150&section=header&text=Welcome&nbsp;to%20EnSillee's&nbsp;Github&fontSize=50" />
+
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Ensillee%20%20&height=200&fontSize=100)
 
 
 
