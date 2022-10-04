@@ -1,3 +1,5 @@
+<a href="https://engelsmile.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-Hexcode?style=for-the-badge&logo=tistory&logoColor=Hexcode"/></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnSillee&show_icons=true&theme=github_dark)
 
 
