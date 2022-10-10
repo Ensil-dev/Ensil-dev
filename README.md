@@ -44,5 +44,5 @@
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnSillee&theme=buefy&layout=compact&langs_count=4"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnSillee&theme=default_repocard&layout=compact&langs_count=4"/>
 </div>
