@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=4c7ccf&text=%20Ensillee%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=4c7ccf&text=%20Ensillee%20%20&height=200&fontSize=70)
 
 
 <h3 align="center" style="display: inline-block;"> Tech Stack </h3>
