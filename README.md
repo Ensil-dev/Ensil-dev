@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=4485F5&text=🐬%20%20%20Ensillee%20%20%20🐬&height=70&fontSize=30&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=4485F5&text=🐬%20%20%20Ensillee%20%20%20🐬&height=70&fontSize=30&fontColor=ffffff&theme=default)
 
 
 </br>
