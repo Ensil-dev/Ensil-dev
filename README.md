@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=4485F5&text=🐬%20%20%20Ensillee%20%20%20🐬&height=70&fontSize=30&fontColor=ffffff&theme=default)
 
-<h3 align="center" style="display: inline-block;"> Tech Stack </h3>
+<h3 align="center" style="display: inline-block;"> Tech stack that I've used while working on the project </h3>
 
 <p align="center">
   <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
