@@ -13,7 +13,7 @@
   <a href="https://ko.redux.js.org/">
     <img src="https://img.shields.io/badge/Redux-8348C9?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
   </a>
-  <a href="https://nodejs.org/ko/docs/">
+  <a href="https://nodejs.org/en/docs">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
   </a>
   <a href="https://expressjs.com/ko/">
