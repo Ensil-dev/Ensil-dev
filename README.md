@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4485F9&height=150&section=header&text=Ensil-dev&fontSize=30&fontColor=ffffff)
 
-<h5 align="center" style="display: inline-block;"> Tech stack that I've used while working on the project </h5>
+<h4 align="center" style="display: inline-block;"> Tech stack that I've used while working on the project </h4>
 
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/MongoDB-1B8634?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
-<h5 align="center" style="display: inline-block;"> Contact </h5>
+<h4 align="center" style="display: inline-block;"> Contact </h4>
 
 <p align="center">
 	<a href="https://engelsmile.tistory.com" target="_blank" rel="noopener noreferrer">
