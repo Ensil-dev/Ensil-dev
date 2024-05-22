@@ -23,8 +23,6 @@
   </a>
 </p>
 
-<br/>
-
 <h3 align="center" style="display: inline-block;"> Contact </h3>
 
 <p align="center">
@@ -36,11 +34,6 @@
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlwjd164@gmail.com"/>
    </a>
 </p>
-
-
-<br/>
-<br/>
-
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnSillee&theme=default_repocard&layout=compact&langs_count=4"/>
