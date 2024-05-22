@@ -6,8 +6,8 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
     <img src="https://img.shields.io/badge/React-426EBE?style=flat&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/Redux-8348C9?style=flat&logo=Redux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
     <br>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-777978?style=flat&logo=Express&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-1B8634?style=flat&logo=CSS3&logoColor=white" />
 </div>
@@ -21,8 +21,6 @@
 		<img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=dlwjd164@gmail.com"/>
 	</a>
 </p>
-
-<br/>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnSillee&theme=default_repocard&layout=compact&langs_count=4"/>
