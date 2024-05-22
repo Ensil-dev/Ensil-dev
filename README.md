@@ -1,5 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ensil-dev&fontSize=50)
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=4485F5&text=Ensil-dev&height=70&fontSize=30&fontColor=ffffff&theme=default)
 
 <h3 align="center" style="display: inline-block;"> Tech stack that I've used while working on the project </h3>
 
