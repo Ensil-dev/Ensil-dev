@@ -12,6 +12,13 @@
     <img src="https://img.shields.io/badge/MongoDB-1B8634?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
+<h4 align="center" style="display: inline-block;"> Completion </h4>
+<p align="center">
+	<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  		<img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+	</a>
+</p>
+
 <h4 align="center" style="display: inline-block;"> Contact </h4>
 
 <p align="center">
