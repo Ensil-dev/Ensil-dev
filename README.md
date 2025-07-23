@@ -7,7 +7,7 @@
     <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat" />
     <br>
     <img src="https://img.shields.io/badge/React-426EBE?style=flat&logo=React&logoColor=white" />
-    <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Redux-8348C9?style=flat&logo=Redux&logoColor=white" />
     <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white" />
     <br>
